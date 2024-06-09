@@ -1,0 +1,2 @@
+image: nginx:1.27.0
+port: 80
